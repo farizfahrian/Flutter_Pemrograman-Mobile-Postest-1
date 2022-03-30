@@ -50,7 +50,7 @@ class MyStatelessWidget extends StatelessWidget {
         width: width,
         child: const Center(
           child: Text(
-            "Hello World",
+            "Postest 1 Fariz Fahrian",
             style: TextStyle(
               color: Color.fromARGB(255, 248, 199, 255),
               fontWeight: FontWeight.bold,
